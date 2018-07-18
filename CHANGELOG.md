@@ -25,7 +25,7 @@
 
 ## audioplayers 0.5.2
 
-- don't call the onClomplete hook when you manually stop the audio
+- don't call the onComplete hook when you manually stop the audio
 
 ## audioplayers 0.5.1
 
